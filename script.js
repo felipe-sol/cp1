@@ -32,8 +32,7 @@ console.log(parseInt(varFloat));
 console.log(typeof varFloat)
 
 
-//Programa que declara nome, idade, 
-//email e telefone e imprime na tela
+//Programa que declara nome, idade, email e telefone e imprime na tela
 
 let nome = "José";
 console.log(nome)
