@@ -18,3 +18,9 @@ console.log(comValor)
 let varString = "1";
 console.log(parseFloat(varString))
 console.log(typeof parseFloat (varString))
+
+// Programa que declara variável como inteiro e converte para float e imprime o valor tela
+
+let varInteiro = 2.5;
+console.log(parseFloat(varInteiro));
+console.log(typeof varInteiro)
