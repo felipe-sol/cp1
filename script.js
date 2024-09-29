@@ -7,3 +7,8 @@ console.log(valorUndefined)
 
 let valorVazio = null;
 console.log(valorVazio)
+
+//Variável com valor declarado
+
+var comValor = "valor";
+console.log(comValor) 
