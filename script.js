@@ -28,10 +28,12 @@ console.log(typeof varInteiro)
 //Programa que declara variável como float e converte para inteiro
 
 let varFloat = 2.5;
-console.log(parseInt(varInteiro));
+console.log(parseInt(varFloat));
 console.log(typeof varFloat)
 
-//Programa que declara nome, idade, email e telefone e imprime na tela
+
+//Programa que declara nome, idade, 
+//email e telefone e imprime na tela
 
 let nome = "José";
 console.log(nome)
