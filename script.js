@@ -30,3 +30,17 @@ console.log(typeof varInteiro)
 let varFloat = 2.5;
 console.log(parseInt(varInteiro));
 console.log(typeof varFloat)
+
+//Programa que declara nome, idade, email e telefone e imprime na tela
+
+let nome = "José";
+console.log(nome)
+
+let email = "josediniz@gmail.com";
+console.log(email)
+
+let idade = 18;
+console.log(parseInt(idade))
+
+let telefone = 11933458989;
+console.log(parseInt(telefone))
