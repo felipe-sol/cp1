@@ -21,15 +21,22 @@ console.log(typeof parseFloat (varString))
 
 // Programa que declara variável como inteiro e converte para float e imprime o valor tela
 
-let varInteiro = 2.5;
-console.log(parseFloat(varInteiro));
-console.log(typeof varInteiro)
+let numeroInt2 = 5;
+ 
+let numeroFloat2 = parseFloat(numeroInt2)
+ 
+console.log(numeroFloat2)
+console.log(typeof numeroFloat2)
 
-//Programa que declara variável como float e converte para inteiro
+//Programa que declara variável como float e converte para inteiro e imperime na tela
 
-let varFloat = 2.5;
-console.log(parseInt(varFloat));
-console.log(typeof varFloat)
+let numeroFloat = 5.75;
+ 
+let numeroInt = parseInt(numeroFloat)
+ 
+console.log(numeroInt)
+console.log(typeof numeroInt)
+ 
 
 
 //Programa que declara nome, idade, email e telefone e imprime na tela
